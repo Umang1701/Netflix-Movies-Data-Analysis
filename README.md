@@ -3,12 +3,12 @@ This project focuses on exploring and analyzing Netflix movies data to uncover m
 
 In this analysis, I worked with a raw Netflix dataset and followed a complete data analysis pipeline:
 
-Data Understanding – explored the dataset structure and identified key features
-Data Cleaning & Transformation – corrected data types, removed unnecesary columns, categorization, removed NAN values.
-Data Analysis – answered few questions and extracted insights
-Data Visualization – created clear and informative graphs to highlight trends
+1.Data Understanding – explored the dataset structure and identified key features
+2.Data Cleaning & Transformation – corrected data types, removed unnecesary columns, categorization, removed NAN values.
+3.Data Analysis – answered few questions and extracted insights
+4.Data Visualization – created clear and informative graphs to highlight trends
 
--Tools & Libraries
+-Tools & Libraries:
 NumPy
 Pandas
 Matplotlib
